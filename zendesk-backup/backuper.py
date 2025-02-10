@@ -1,3 +1,7 @@
+"""
+This script will download all Zendesk 'Guide' articles into HTML.
+"""
+
 import os
 import datetime
 import csv

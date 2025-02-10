@@ -1,3 +1,7 @@
+"""
+This script will convert Zendesk html articles into Jekyll format using OpenAI GPT4o-Mini
+"""
+
 import os
 from openai import OpenAI
 
