@@ -4,7 +4,7 @@ title: "Pausing Your Shop"
 description: "Learn how to temporarily pause your storefront on ANAM Craft."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

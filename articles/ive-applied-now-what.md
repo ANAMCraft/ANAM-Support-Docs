@@ -4,7 +4,7 @@ title: "I've applied, now what?"
 description: "Information on the next steps after applying to become an ANAM Maker."
 category: "Support Center"
 tags: ["support", "faq", "application"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # I've applied, now what?

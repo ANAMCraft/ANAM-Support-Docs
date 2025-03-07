@@ -4,7 +4,7 @@ title: "How do I order/arrange my products?"
 description: "Learn how to effectively arrange your products for better visibility on your storefront."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

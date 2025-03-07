@@ -4,7 +4,7 @@ title: "Best Practices for Product Uploads"
 description: "A guide to effectively upload products on ANAM Craft."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # Best Practices for Product Uploads

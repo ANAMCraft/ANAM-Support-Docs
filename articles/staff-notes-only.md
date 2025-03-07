@@ -4,7 +4,7 @@ title: "Staff Notes Only"
 description: "Add notes for shipping department and other personnel within your company."
 category: "Support Center"
 tags: ["support", "staff", "article"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

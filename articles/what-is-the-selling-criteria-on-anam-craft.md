@@ -4,7 +4,7 @@ title: "What is the selling criteria on Anam Craft?"
 description: "An overview of the criteria for selling products on ANAM Craft."
 category: "Support Center"
 tags: ["support", "vendors", "selling criteria"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # What is the selling criteria on Anam Craft?

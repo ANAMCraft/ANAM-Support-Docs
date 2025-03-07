@@ -4,7 +4,7 @@ title: "Managing Inventory/Stock"
 description: "Learn how to manage inventory settings for your products in the Maker Portal."
 category: "Support Center"
 tags: ["support", "inventory", "article"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # Managing Inventory/Stock

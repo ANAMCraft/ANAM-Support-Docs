@@ -4,7 +4,7 @@ title: "Can I upload products in bulk?"
 description: "Learn how to upload products in bulk to ANAM Craft."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

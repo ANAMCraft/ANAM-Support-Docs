@@ -4,7 +4,7 @@ title: "How to Select Categories (Limit to 3) for Your Product"
 description: "Guidelines on selecting the appropriate categories for your product listing."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

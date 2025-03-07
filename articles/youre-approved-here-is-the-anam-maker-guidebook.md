@@ -4,7 +4,7 @@ title: "ANAM Maker Guidebook for Getting Started"
 description: "A comprehensive guide for approved ANAM Makers."
 category: "Support Center"
 tags: ["support", "guide", "article"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

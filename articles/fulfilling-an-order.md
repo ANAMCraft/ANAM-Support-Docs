@@ -4,7 +4,7 @@ title: "Fulfilling an Order"
 description: "A step-by-step guide on how to fulfill an order after receiving it."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

@@ -4,7 +4,7 @@ title: "How much does it cost?"
 description: "An overview of the pricing plans available for ANAM Makers on ANAM Craft."
 category: "Support Center"
 tags: ["support", "pricing", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

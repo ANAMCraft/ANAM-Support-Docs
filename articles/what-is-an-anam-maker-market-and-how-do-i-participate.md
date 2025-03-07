@@ -4,7 +4,7 @@ title: "What is an ANAM Maker Market and how do I participate?"
 description: "Learn about ANAM Maker Markets, how to participate, and the benefits for makers."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # What is an ANAM Maker Market and how do I participate?
@@ -49,7 +49,7 @@ Participating in ANAM Maker Markets is a valuable opportunity for vendors to enh
   **A:** ANAM Maker Markets are online events where wholesale buyers and vendors connect for trading with exclusive promotions.
 
 - **Q: How do I participate as a vendor?**  
-  **A:** Vendors can sign up through the Maker Portal by following the prompts under "Maker Markets."
+  **A:** Makers can sign up through the Maker Portal by following the prompts under "Maker Markets."
 
 - **Q: What are the commission rates for participating makers?**  
   **A:** New orders have a 5% reduced commission, and invited buyers can enjoy a commission-free experience.

@@ -4,7 +4,7 @@ title: "Tips on Uploading a Brand Image"
 description: "Learn how to effectively upload a brand image that entices buyers to your storefront."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # Tips on Uploading a Brand Image

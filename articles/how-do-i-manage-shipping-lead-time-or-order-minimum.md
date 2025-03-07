@@ -4,7 +4,7 @@ title: "How do I manage shipping lead time or order minimum?"
 description: "Learn how to manage your shipping lead time and order minimums through your Maker Profile."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

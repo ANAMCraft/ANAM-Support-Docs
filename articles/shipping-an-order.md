@@ -4,7 +4,7 @@ title: "Shipping an Order"
 description: "Guidelines for fulfilling an order and choosing a shipping method."
 category: "Support Center"
 tags: ["support", "shipping", "article"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

@@ -4,7 +4,7 @@ title: "When do I get paid?"
 description: "Understanding the payout process for orders placed through the Maker Portal."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

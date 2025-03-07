@@ -4,7 +4,7 @@ title: "Commission and Payment Options"
 description: "Information on choosing and changing your Maker monthly plan."
 category: "Support Center"
 tags: ["support", "faq", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # Commission and Payment Options

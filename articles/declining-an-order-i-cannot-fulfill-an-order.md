@@ -4,7 +4,7 @@ title: "Declining an Order / 'I cannot fulfill an order'"
 description: "Guidelines for vendors on how to decline an order and communicate with buyers."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

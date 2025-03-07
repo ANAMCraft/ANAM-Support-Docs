@@ -4,7 +4,7 @@ title: "How do I know when I have a new order?"
 description: "Learn how to be notified of new orders in the ANAM Craft Marketplace."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

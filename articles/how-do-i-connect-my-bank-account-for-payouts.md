@@ -4,7 +4,7 @@ title: "How do I connect my bank account for payouts?"
 description: "Learn how to connect your bank account for payouts during the onboarding process with ANAM Craft."
 category: "Support Center"
 tags: ["support", "faq", "article"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

@@ -4,7 +4,7 @@ title: "Can I use a CSV from another website for bulk uploading?"
 description: "Learn how to bulk upload your products using a CSV file from another website."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # Can I use a CSV from another website for bulk uploading?

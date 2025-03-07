@@ -4,7 +4,7 @@ title: "Using Swatches Instead of Product Images"
 description: "Learn how to effectively use swatch images for product options."
 category: "Support Center"
 tags: ["support", "faq", "article"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # Using Swatches Instead of Product Images

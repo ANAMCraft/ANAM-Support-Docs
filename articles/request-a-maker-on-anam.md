@@ -4,7 +4,7 @@ title: "Request a Maker on ANAM"
 description: "Learn how to suggest a Maker that you'd like to see on ANAM."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

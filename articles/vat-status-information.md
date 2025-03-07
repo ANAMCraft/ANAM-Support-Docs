@@ -4,7 +4,7 @@ title: "VAT Status Information"
 description: "Information regarding VAT requirements for resellers and wholesalers on ANAM Craft."
 category: "Support Center"
 tags: ["support", "faq", "article"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

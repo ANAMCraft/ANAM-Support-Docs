@@ -4,7 +4,7 @@ title: "How do I sell on ANAM Craft marketplace?"
 description: "A guide on how to start selling on the ANAM Craft marketplace."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

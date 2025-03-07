@@ -4,7 +4,7 @@ title: "Image Size Requirements"
 description: "Guidelines for optimizing images for your store."
 category: "Support Center"
 tags: ["support", "faq", "image requirements", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # {{ page.title }}

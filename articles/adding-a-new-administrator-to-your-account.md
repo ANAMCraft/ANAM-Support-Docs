@@ -4,7 +4,7 @@ title: "Adding a New Administrator to Your Account"
 description: "Learn how to add a new administrator to your account through the Maker Portal."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # Adding a New Administrator to Your Account

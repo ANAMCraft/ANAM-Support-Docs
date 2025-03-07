@@ -4,7 +4,7 @@ title: "What is ANAM Craft Marketplace?"
 description: "ANAM Craft marketplace is a secure online platform for authentic Makers and craftspeople."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # What is ANAM Craft Marketplace?
@@ -15,14 +15,14 @@ ANAM Craft marketplace is a secure, convenient, and 24/7 online trading platform
 
 ## Table of Contents
 1. [Overview of ANAM Craft Marketplace](#overview-of-anam-craft-marketplace)
-2. [Benefits for Makers and Vendors](#benefits-for-makers-and-vendors)
+2. [Benefits for Makers and Makers](#benefits-for-makers-and-vendors)
 3. [Getting Started](#getting-started)
 
 ## Overview of ANAM Craft Marketplace
 
 ANAM Craft marketplace provides a unique opportunity for authentic Makers and craftspeople to connect with retailers across North America. This platform emphasizes the importance of quality and authenticity, ensuring that both makers and buyers are thoroughly vetted.
 
-## Benefits for Makers and Vendors
+## Benefits for Makers and Makers
 
 - **Secure Transactions**: The platform ensures that all transactions are secure and reliable.
 - **24/7 Availability**: Makers can sell their products at any time, providing flexibility.

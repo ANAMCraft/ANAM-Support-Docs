@@ -4,7 +4,7 @@ title: "How to show your products as always 'In Stock'"
 description: "Learn how to display your products as always 'In Stock' in your storefront."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
-parent: "Vendors"
+parent: "Makers"
 ---
 
 # How to show your products as always 'In Stock'
