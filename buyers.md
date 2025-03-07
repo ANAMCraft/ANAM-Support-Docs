@@ -6,4 +6,4 @@ category: "Support Center"
 tags: ["support", "faq", "article", "buyer"]
 ---
 
-Hello there
+Hello there, and welcome to ANAM Support for Buyers!
