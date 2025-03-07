@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "A short video overview for Maker Market Participation"
+title: "Maker Market Participation: A Short Video Overview"
 description: "An overview on how to participate in the upcoming Maker Market hosted by ANAM Craft."
 category: "Support Center"
 tags: ["support", "faq", "article", "vendors"]
