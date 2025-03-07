@@ -3,7 +3,7 @@ layout: default
 title: "How to Access Your Maker Portal"
 description: "Guide on how to access your Maker Portal after approval on ANAM Craft marketplace."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 

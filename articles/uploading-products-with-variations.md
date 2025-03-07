@@ -3,7 +3,7 @@ layout: default
 title: "Uploading Products with Variations"
 description: "A guide on how to upload products with multiple variations including sizes and colors."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 

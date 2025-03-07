@@ -3,7 +3,7 @@ layout: default
 title: "How do I add or edit products?"
 description: "A guide on adding and editing products in your ANAM storefront."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "How do I track inventory?"
 description: "Learn how to effectively track inventory for your products."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 

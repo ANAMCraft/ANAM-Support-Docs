@@ -3,7 +3,7 @@ layout: default
 title: "Pausing Your Shop"
 description: "Learn how to temporarily pause your storefront on ANAM Craft."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 

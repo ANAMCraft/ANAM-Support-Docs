@@ -3,7 +3,7 @@ layout: default
 title: "What is important to know as an Anam Maker?"
 description: "Essential guidelines for makers using the ANAM platform."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 

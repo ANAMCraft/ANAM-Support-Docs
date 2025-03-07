@@ -3,7 +3,7 @@ layout: default
 title: "When do I get paid?"
 description: "Understanding the payout process for orders placed through the Maker Portal."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 
@@ -11,7 +11,7 @@ parent: "Makers"
 
 ## Introduction
 
-This article explains the payout process for vendors on ANAM Craft after an order is fulfilled. Understanding when and how you receive payments is crucial for managing your finances effectively.
+This article explains the payout process for makers on ANAM Craft after an order is fulfilled. Understanding when and how you receive payments is crucial for managing your finances effectively.
 
 ## Table of Contents
 1. [Payout Process](#payout-process)

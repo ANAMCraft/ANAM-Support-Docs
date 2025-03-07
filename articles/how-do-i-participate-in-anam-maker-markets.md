@@ -3,7 +3,7 @@ layout: default
 title: "How do I participate in ANAM Maker Markets?"
 description: "A guide on participating in ANAM Maker Markets through the Maker Portal."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 

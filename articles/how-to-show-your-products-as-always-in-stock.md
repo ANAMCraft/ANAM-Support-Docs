@@ -3,7 +3,7 @@ layout: default
 title: "How to show your products as always 'In Stock'"
 description: "Learn how to display your products as always 'In Stock' in your storefront."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 
@@ -27,7 +27,7 @@ To ensure your products are always shown as "In Stock," follow these steps:
 
 ## Conclusion
 
-By disabling inventory tracking, your products will always appear as available for purchase. This is particularly useful for vendors who craft items to order or have an ample supply of products.
+By disabling inventory tracking, your products will always appear as available for purchase. This is particularly useful for makers who craft items to order or have an ample supply of products.
 
 ## Frequently Asked Questions (FAQ)
 

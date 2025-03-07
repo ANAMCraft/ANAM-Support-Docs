@@ -3,7 +3,7 @@ layout: default
 title: "Do I need a reseller or tax ID?"
 description: "Information on the necessity of a Reseller ID for purchasing on ANAM Craft marketplace."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 

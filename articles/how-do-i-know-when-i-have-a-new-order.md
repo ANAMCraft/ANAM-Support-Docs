@@ -3,7 +3,7 @@ layout: default
 title: "How do I know when I have a new order?"
 description: "Learn how to be notified of new orders in the ANAM Craft Marketplace."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 

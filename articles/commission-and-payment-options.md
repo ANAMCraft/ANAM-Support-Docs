@@ -3,7 +3,7 @@ layout: default
 title: "Commission and Payment Options"
 description: "Information on choosing and changing your Maker monthly plan."
 category: "Support Center"
-tags: ["support", "faq", "vendors"]
+tags: ["support", "faq", "makers"]
 parent: "Makers"
 ---
 

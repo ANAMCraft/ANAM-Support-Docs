@@ -3,7 +3,7 @@ layout: default
 title: "How do I invite current buyers and pay no commission?"
 description: "Learn how to invite current buyers on ANAM Craft without paying any commission."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 

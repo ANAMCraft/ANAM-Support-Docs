@@ -3,7 +3,7 @@ layout: default
 title: "How much does it cost?"
 description: "An overview of the pricing plans available for ANAM Makers on ANAM Craft."
 category: "Support Center"
-tags: ["support", "pricing", "article", "vendors"]
+tags: ["support", "pricing", "article", "makers"]
 parent: "Makers"
 ---
 

@@ -11,7 +11,7 @@ parent: "Buyers"
 
 ## Introduction
 
-This article provides a step-by-step guide on how to sign up as a buyer on the ANAM Craft marketplace, where you can discover and purchase authentic craft and design from talented vendors.
+This article provides a step-by-step guide on how to sign up as a buyer on the ANAM Craft marketplace, where you can discover and purchase authentic craft and design from talented makers.
 
 ## Table of Contents
 1. [Overview of ANAM Craft Marketplace](#overview-of-anam-craft-marketplace)
@@ -19,7 +19,7 @@ This article provides a step-by-step guide on how to sign up as a buyer on the A
 
 ## Overview of ANAM Craft Marketplace
 
-ANAM Craft marketplace is a wholesale marketplace for retail buyers to discover and purchase authentic craft & design from a variety of talented vendors, called Makers. Our Makers are located in Ireland, Scotland, Wales, Northern Ireland & USA!
+ANAM Craft marketplace is a wholesale marketplace for retail buyers to discover and purchase authentic craft & design from a variety of talented makers, called Makers. Our Makers are located in Ireland, Scotland, Wales, Northern Ireland & USA!
 
 ## Steps to Sign Up
 

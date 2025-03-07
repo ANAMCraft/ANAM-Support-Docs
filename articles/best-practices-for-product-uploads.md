@@ -3,7 +3,7 @@ layout: default
 title: "Best Practices for Product Uploads"
 description: "A guide to effectively upload products on ANAM Craft."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 
@@ -34,7 +34,7 @@ Make sure to optimize your images for the web. This can include resizing them an
 
 Follow the step-by-step process for uploading your products to ensure everything is done correctly. 
 
-1. Log in to your vendor account.
+1. Log in to your maker account.
 2. Navigate to the product upload section.
 3. Fill in the required fields with your prepared data.
 4. Upload your images and review the product details before submitting.
@@ -46,7 +46,7 @@ Follow the step-by-step process for uploading your products to ensure everything
 
 ## Common Issues and Troubleshooting
 
-In this section, we will address common problems vendors face during the product upload process and provide solutions.
+In this section, we will address common problems makers face during the product upload process and provide solutions.
 
 - **Problem 1:** Products not appearing after upload.  
   **Solution:** Check for any errors in your upload and ensure you have completed all required fields.

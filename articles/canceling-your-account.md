@@ -3,7 +3,7 @@ layout: default
 title: "Canceling Your Account"
 description: "Instructions on how to cancel your ANAM Craft Marketplace retailer account."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 

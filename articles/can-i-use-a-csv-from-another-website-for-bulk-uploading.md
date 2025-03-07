@@ -3,7 +3,7 @@ layout: default
 title: "Can I use a CSV from another website for bulk uploading?"
 description: "Learn how to bulk upload your products using a CSV file from another website."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 

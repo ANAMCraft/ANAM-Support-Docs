@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Declining an Order / 'I cannot fulfill an order'"
-description: "Guidelines for vendors on how to decline an order and communicate with buyers."
+description: "Guidelines for makers on how to decline an order and communicate with buyers."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 
@@ -11,7 +11,7 @@ parent: "Makers"
 
 ## Introduction
 
-This article provides guidelines for vendors on how to decline an order they cannot fulfill and the necessary steps to communicate this to the buyer.
+This article provides guidelines for makers on how to decline an order they cannot fulfill and the necessary steps to communicate this to the buyer.
 
 ## Table of Contents
 1. [How to Decline an Order](#how-to-decline-an-order)

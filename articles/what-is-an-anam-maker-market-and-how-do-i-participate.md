@@ -3,7 +3,7 @@ layout: default
 title: "What is an ANAM Maker Market and how do I participate?"
 description: "Learn about ANAM Maker Markets, how to participate, and the benefits for makers."
 category: "Support Center"
-tags: ["support", "faq", "article", "vendors"]
+tags: ["support", "faq", "article", "makers"]
 parent: "Makers"
 ---
 
@@ -11,7 +11,7 @@ parent: "Makers"
 
 ## Introduction
 
-ANAM Maker Markets are exciting 3 or 4 day online events for wholesale buyers and vendors to connect and trade, with brand discounts and exclusive promotions offered by ANAM Craft!
+ANAM Maker Markets are exciting 3 or 4 day online events for wholesale buyers and makers to connect and trade, with brand discounts and exclusive promotions offered by ANAM Craft!
 
 ## Table of Contents
 1. [The Next Maker Market](#the-next-maker-market)
@@ -41,14 +41,14 @@ Visit your [Maker Portal](https://anamcraft.com/makerportal.php) and look for "M
 
 ## Conclusion
 
-Participating in ANAM Maker Markets is a valuable opportunity for vendors to enhance their visibility and connect with buyers while enjoying reduced commission rates.
+Participating in ANAM Maker Markets is a valuable opportunity for makers to enhance their visibility and connect with buyers while enjoying reduced commission rates.
 
 ## Frequently Asked Questions (FAQ)
 
 - **Q: What is an ANAM Maker Market?**  
-  **A:** ANAM Maker Markets are online events where wholesale buyers and vendors connect for trading with exclusive promotions.
+  **A:** ANAM Maker Markets are online events where wholesale buyers and makers connect for trading with exclusive promotions.
 
-- **Q: How do I participate as a vendor?**  
+- **Q: How do I participate as a maker?**  
   **A:** Makers can sign up through the Maker Portal by following the prompts under "Maker Markets."
 
 - **Q: What are the commission rates for participating makers?**  
