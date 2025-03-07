@@ -11,7 +11,7 @@ parent: "Vendors"
 
 ## Introduction
 
-Congratulations on your approval! This guidebook is designed to help you navigate the next steps as an ANAM Maker. Here you'll find essential information and visual aids to assist you in your journey.
+Congratulations on your approval! This guidebook is designed to help you navigate the next steps as an ANAM Maker. Here you'll find essential information and visual aids to assist you in your journey. To view this guidebook as a slide show, [Click Here](https://www.canva.com/design/DAEcHTQ3pYQ/8yr17v3wzyFygLZMtNwp4g/view?utm_content=DAEcHTQ3pYQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb337f706d8#1)
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
