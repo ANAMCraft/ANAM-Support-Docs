@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "You're Approved! Here is the ANAM Maker Guidebook"
+title: "ANAM Maker Guidebook for Getting Started"
 description: "A comprehensive guide for approved ANAM Makers."
 category: "Support Center"
 tags: ["support", "guide", "article"]
